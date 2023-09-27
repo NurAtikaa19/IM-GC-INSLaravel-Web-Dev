@@ -1,0 +1,53 @@
+body {
+  background-image: url(asset/sakura.jpg);
+  background-color: aliceblue;
+  color: black;
+  margin: 70px;
+  
+}
+p {
+        border-style: solid;
+        border-bottom-width: 1px;
+        border-top-style: none;
+        border-left-style: none;
+        border-right-style: none;
+  }
+
+    h1 { text-align: center;
+    }
+
+h1 { 
+  text-align: center;
+  color: burlywood;
+}
+
+p {
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+font-size: medium;
+color: hsl(0, 0%, 0%);
+}
+
+h2 {
+  border-style: solid;
+  border-bottom-width: 1px;
+  border-top-style: none;
+  border-left-style: none;
+  border-right-style: none;
+  color: #000000;
+}
+
+h3 {
+  color: #000000;
+}
+
+footer {
+text-align: center;
+color: white;
+}
+
+div {
+background-color: white;
+max-width: fit-content;
+padding: 90px;
+margin-bottom: auto;
+}
